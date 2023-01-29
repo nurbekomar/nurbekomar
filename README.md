@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+***
+### HTML, CSS, JavaScript: 
+
+- One
+- Two
+- Three
+
 
 <!--
 **nurbekomar/nurbekomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
