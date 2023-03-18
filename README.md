@@ -2,7 +2,8 @@
 
 
 ## AVR
-# ATmega8A микроконтроллерің С тілінде программалау
 
-- [ATmega8A](https://github.com/nurbekomar/ATmega8A.git)
+### AVR микроконтроллерің С тілінде программалау сабақтары
+
+- [ATmega8A](https://github.com/nurbekomar/ATmega8A.git) - ATmega8A микроконтроллері
 
